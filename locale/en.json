@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Workspace File Tree",
+    "description": "Shows every file and folder of the current workspace as a collapsible tree in the Web GUI; double-click a file to open it in the DSH viewer."
+  }
+}

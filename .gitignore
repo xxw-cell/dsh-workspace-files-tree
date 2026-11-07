@@ -1,0 +1,10 @@
+# npm / packaging
+node_modules/
+*.tgz
+npm-debug.log*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

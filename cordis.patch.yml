@@ -1,0 +1,8 @@
+# dsh-workspace-files-tree — bundle patch for the DSH desktop/web profile.
+#
+# The bundle inserts one Host row whose module carries the browser companion
+# declared through package.json `dsh.client`. Toggle the row or the bundle from
+# the Web GUI's Plugins page (or the plugin_manager tool) to enable/disable it.
+- insert:
+    - id: workspace-files-tree
+      name: dsh-workspace-files-tree
